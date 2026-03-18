@@ -1,15 +1,15 @@
-﻿Product name,Product description,Product link,Product unit cost inc. Tax (€),Product amount,Product total cost (€),Running total (€ with tax and shipping)
-YD-RP2040,RPI pico-like microcontroller board,https://www.aliexpress.com/item/1005006152339711.html, 2.99 € ,1, 2.99 € , 2.99 € 
-74AHCT125DR,Logic level shifter IO,https://www.aliexpress.com/item/1005010022053816.html, 3.01 € ,1, 3.01 € , 6.00 € 
-100nF 0805 Ceramic Capacitor (>= 6.3V),Decoupling capacitor,https://www.aliexpress.com/item/1005007470747384.html, 0.02 € ,105, 1.82 € , 7.82 € 
-10kΩ 0805 Resistor,Pull-up resistor,https://www.aliexpress.com/item/1005009805187579.html, 0.02 € ,2, 0.04 € , 7.85 € 
-1N4148W Diode,Keyboard matrix diode,https://www.aliexpress.com/item/4000685043735.html, 0.02 € ,103, 1.77 € , 9.63 € 
-Kailh Hot-Swap Sockets for Gateron x103,PCB sockets for switches,https://www.aliexpress.com/item/1005009594313632.html, 8.24 € ,1, 8.24 € , 17.87 € 
-Gateron Switch G Pro 3.0,Mechanical keyboard switches,https://kurokeeb.com/products/gateron-switch-g-pro-3-0, 0.37 € ,103, 38.11 € , 55.98 € 
-1.5 Inch OLED Display 128x128 I2C,OLED Screen,https://www.aliexpress.com/item/1005009409829497.html, 4.25 € ,1, 4.25 € , 60.23 € 
-SK6812 Mini RGB LED x200,Backlight LEDs,https://www.aliexpress.com/item/1005007696173500.html, 3.38 € ,2, 6.76 € , 66.99 € 
-Keycap set,set of keycaps for keyboard,https://www.aliexpress.com/item/1005007996240625.html, 16.93 € ,1, 16.93 € , 83.92 € 
-M3x8 screws,screws for PCB and case assembly,https://www.aliexpress.com/item/1005008585550992.html, 0.05 € ,8, 0.40 € , 84.32 € 
-Hot melt inserts MxL4xOD4.2,inserts for case assembly,https://www.aliexpress.com/item/1005006071488810.html, 0.11 € ,8, 0.88 € , 85.20 € 
-Silicone feet 12x3mm x4,anti-slip feet for case,https://www.aliexpress.com/item/1005006954839245.html, 0.72 € ,1, 0.72 € , 85.92 € 
-PCB,w/o assembly (estimate),https://www.jlcpcb.com/, 40.00 € ,1, 40.00 € , 125.92 € 
+Name,Purpose,Cost Per Item (USD),Quantity,Total (USD),Link,Distributor
+"PCB","The body of the project",58.88,1,58.88,"https://cart.jlcpcb.com/shopcart/cart","JCLPCB"
+"Silicone feet","Small pads on the bottom of the case to prevent slipping.",1.10,1,1.10,"https://www.aliexpress.us/item/3256806768524493.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"Hot melt inserts","Inserts for securing the 3D-printed case pieces together.",2.35,1,2.35,"https://www.aliexpress.us/item/3256805885174058.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"Screws M3x8","Screws for assembling the PCB and case.",2.37,1,2.37,"https://www.aliexpress.us/item/3256808399236240.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"Keycaps","Plastic caps that sit on top of the switches and show the letters/symbols.",16.51,1,16.51,"https://www.aliexpress.us/item/3256807809925873.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"SK6812 LEDs","Mini RGB LEDs for backlighting, allowing customizable colors and effects.",3.98,2,7.96,"https://www.aliexpress.us/item/3256806277470826.html?spm=a2g0o.detail.similar_items.1.4e09yNJ6yNJ6Yw&utparam-url=scene%3Aimage_search%7Cquery_from%3Adetail_bigimg%7Cx_object_id%3A1005006463785578%7C_p_origin_prod%3A&algo_pvid=05612be7-29bf-4f86-b56b-687adf662ed2&algo_exp_id=05612be7-29bf-4f86-b56b-687adf662ed2&pdp_ext_f=%7B%22order%22%3A%22145%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.10%213.98%21%21%214.10%213.98%21%40210328c017738002920387208ec454%2112000056097112902%21sea%21US%216860456260%21X%211%210%21n_tag%3A-29919%3Bd%3A62c163c3%3Bm03_new_user%3A-29895&gatewayAdapt=4itemAdapt","Aliexpress"
+"OLED Display 1.5""","Small OLED screen to show typing stats, lighting controls, or custom information.",7.90,1,7.90,"https://www.aliexpress.us/item/3256809223514745.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"Gateron Switches","Mechanical key switches that provide tactile or linear feedback when typing.",0.30,103,30.90,"https://kurokeeb.com/products/gateron-switch-g-pro-3-0","Kuro Keeb"
+"Hot swap sockets","PCB-mounted sockets that allow switches to be inserted and removed without soldering.",12.90,1,12.90,"https://www.aliexpress.us/item/3256809407998880.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"1N4148 Diodes","Standard diodes used in the keyboard matrix to prevent ""ghosting"" when multiple keys are pressed.",1.73,2,3.46,"https://www.aliexpress.us/item/2255800498728983.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"10kΩ Resistors","Pull-up resistors used in the keyboard matrix to ensure proper key detection.",1.22,2,2.44,"https://www.aliexpress.us/item/3256809618872827.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"100nF Capacitors","Decoupling capacitors that smooth out voltage fluctuations and reduce electrical noise.",1.95,2,3.90,"https://www.aliexpress.us/item/3256807284432632.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"74AHCT125","Logic level shifter to safely interface different voltage components in the keyboard matrix.",3.04,1,3.04,"https://www.aliexpress.us/item/3256809835739064.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
+"YD-RP2040","Microcontroller board (like a Raspberry Pi Pico) that runs the keyboard firmware and connects via USB-C.",2.38,1,2.38,"https://www.aliexpress.us/item/3256805966024959.html?gatewayAdapt=glo2usa4itemAdapt","Aliexpress"
