@@ -1,21 +1,4 @@
-# 750-THR-Earthtyper
-The 1000-THR Earthmover shrunk down to a keyboard size!
-<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/4ad78cf6-d009-423a-b9d8-942b1b0cb2fe" />
-
-<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/2e6cab8e-7e9c-4cf3-b781-379b6f2d3880" />
-
-<img width="1920" height="1080" alt="earthtyper render" src="https://github.com/user-attachments/assets/4b34df17-ff35-4a58-9dbc-916f49d8e0a6" />
-
-<img width="1920" height="1080" alt="render" src="https://github.com/user-attachments/assets/7e995999-a9b4-465c-97fa-e2a2b12638ad" />
-
-<img width="1326" height="681" alt="image" src="https://github.com/user-attachments/assets/2f68f792-53b7-4ebf-b2f7-6c5a986d06c3" />
-
-<img width="1358" height="532" alt="image" src="https://github.com/user-attachments/assets/26270feb-3777-4790-bee3-304b351d44b5" />
-
-<img width="991" height="500" alt="image" src="https://github.com/user-attachments/assets/f3cb2b4f-13f8-4ca1-93f4-4fbb6dd52015" />
-
-# Why does this exist
-I wanted to make an ultrakill themed keyboard, so i did!
+# Transparent Keyboard
 # How to software
  1. DO BEFORE BUILD ITS EASIER I THINK
  2. Download QMK Toolbox and flash earthtyper via.hex onto the teensy by plugging it in, hitting the boot button and flashing. 
