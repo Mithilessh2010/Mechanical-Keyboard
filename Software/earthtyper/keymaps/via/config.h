@@ -1,0 +1,3 @@
+#define WS2812_DI_PIN F7
+#define RGBLIGHT_LED_COUNT 30
+#define RGBLIGHT_DEFAULT_ON true 
