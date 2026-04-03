@@ -3,8 +3,6 @@
 This is a custom mechanical keyboard with a fully clear acrylic case and transparent keycaps.  
 The goal of this project was to build a simple keyboard that shows all of the internal parts, lighting, and wiring.
 
-<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/4ad78cf6-d009-423a-b9d8-942b1b0cb2fe" />
-<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/2e6cab8e-7e9c-4cf3-b781-379b6f2d3880" />
 <img width="1920" height="1080" alt="earthtyper render" src="https://github.com/user-attachments/assets/4b34df17-ff35-4a58-9dbc-916f49d8e0a6" />
 <img width="1920" height="1080" alt="render" src="https://github.com/user-attachments/assets/7e995999-a9b4-465c-97fa-e2a2b12638ad" />
 <img width="1326" height="681" alt="image" src="https://github.com/user-attachments/assets/2f68f792-53b7-4ebf-b2f7-6c5a986d06c3" />
