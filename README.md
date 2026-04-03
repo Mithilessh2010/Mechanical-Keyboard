@@ -5,9 +5,8 @@ The goal of this project was to build a simple keyboard that shows all of the in
 
 <img width="1920" height="1080" alt="earthtyper render" src="https://github.com/user-attachments/assets/4b34df17-ff35-4a58-9dbc-916f49d8e0a6" />
 <img width="1920" height="1080" alt="render" src="https://github.com/user-attachments/assets/7e995999-a9b4-465c-97fa-e2a2b12638ad" />
-<img width="1326" height="681" alt="image" src="https://github.com/user-attachments/assets/2f68f792-53b7-4ebf-b2f7-6c5a986d06c3" />
+<img width="1225" height="557" alt="image" src="https://github.com/user-attachments/assets/56c692ca-d148-4272-9c70-b8a9eef9fa64" />
 <img width="1358" height="532" alt="image" src="https://github.com/user-attachments/assets/26270feb-3777-4790-bee3-304b351d44b5" />
-<img width="991" height="500" alt="image" src="https://github.com/user-attachments/assets/f3cb2b4f-13f8-4ca1-93f4-4fbb6dd52015" />
 
 ---
 
